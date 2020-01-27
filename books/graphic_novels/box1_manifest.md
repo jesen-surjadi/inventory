@@ -1,9 +1,8 @@
 
 # Books/Graphic Novels Box 1
 
-
 | Title                                     | Author(s)                                                 | ISBN 13        
-| ----------------------------------------- | --------------------------------------------------------- | -------------- 
+| ----------------------------------------- | --------------------------------------------------------- | --------------
 | Northlanders Book 1: The Anglo-Saxon Saga | Brian Wood                                                | 9781401263317
 | The Cloud                                 | K.I. Zachopoulos, Vincenzo Balzano                        | 9781608867257
 | Kabuki Vol.1 : Circle of Blood            | David Mack                                                | 9781887279802
@@ -24,7 +23,14 @@
 | Local                                     | Brian Wood, Ryan Kelly                                    | 9781934964002
 
 
+</br>
+</br>
+
+# Books/Graphic Novels Box 1
+
+</br>
+</br>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7928464/73208560-4d44f800-410c-11ea-84a4-7199894d8c40.png">
 </p>
-
