@@ -38,7 +38,22 @@
 | Blade of the Immortal Vol. 30: Vigilance                    | Hiroaki Samura  | [9781616554842]
 | Blade of the Immortal Vol. 31: Final Curtain                | Hiroaki Samura  | [9781616556266]
 
+# Books/Graphic Novels Box 2 (extra)
 
+| Title                              | Type | Serial
+| ---------------------------------- | ---- | --------------
+| Heavenly Sword                     | PS3  | [711719813224]
+| Uncharted: Drake's Fortune         | PS3  | [711719810322]
+| Virtua Fighter 5                   | PS3  | [010086690057]
+| Ninja Gaiden Sigma                 | PS3  | [018946010502]
+| Assassin's Creed                   | PS3  | [008888343394]
+| Rainbow Six: Vegas                 | PS3  | [008888343219]
+| Soulcalibur IV                     | PS3  | [722674110075]
+| Ghost Recon 2: Advanced Warfighter | PS3  | [008888343479]
+| Lair                               | PS3  | [711719811220]
+| Warhawk                            | PS3  | [711719811725]
+| Appleseed                          | PSP  | [013023700055]
+| Sin City                           | PSP  | [786936302493]
 
 </br>
 </br>
@@ -84,4 +99,15 @@
 [9781616553371]:https://www.amazon.com/Blade-Immortal-29-Beyond-Good/dp/1616553375
 [9781616554842]:https://www.amazon.com/Blade-Immortal-Vigilance-Hiroaki-Samura/dp/1616554843
 [9781616556266]:https://www.amazon.com/Blade-Immortal-31-Final-Curtain/dp/1616556269
-
+[711719813224]:https://gamefaqs.gamespot.com/ps3/928391-heavenly-sword/data
+[711719810322]:https://gamefaqs.gamespot.com/ps3/932984-uncharted-drakes-fortune/data
+[010086690057]:https://gamefaqs.gamespot.com/ps3/932831-virtua-fighter-5/data
+[018946010502]:https://gamefaqs.gamespot.com/ps3/935677-ninja-gaiden-sigma/data
+[008888343394]:https://gamefaqs.gamespot.com/ps3/930022-assassins-creed/data
+[008888343219]:https://gamefaqs.gamespot.com/ps3/932242-tom-clancys-rainbow-six-vegas/data
+[722674110075]:https://gamefaqs.gamespot.com/ps3/940047-soulcalibur-iv/data
+[008888343479]:https://gamefaqs.gamespot.com/ps3/937004-tom-clancys-ghost-recon-advanced-warfighter-2/data
+[711719811220]:https://gamefaqs.gamespot.com/ps3/929230-lair/data
+[711719811725]:https://gamefaqs.gamespot.com/ps3/928383-warhawk/data
+[013023700055]:https://www.alibris.com/search/movies/upc/013023700055
+[786936302493]:https://www.alibris.com/search/movies/upc/786936302493
