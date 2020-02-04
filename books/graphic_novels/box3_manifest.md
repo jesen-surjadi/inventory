@@ -1,8 +1,4 @@
 
-
-
-
-
 # Books/Graphic Novels Box 3
 
 | Title                                | Author(s)                                     | ISBN 13
@@ -78,6 +74,10 @@
 | Metal Gear Solid 4: Guns of the Patriots | PS3  | [083717201601]
 | Akira (Special Edition)                  | DVD  | [B00005BJPO]
 
+</br>
+</br>
+</br>
+</br>
 </br>
 </br>
 
